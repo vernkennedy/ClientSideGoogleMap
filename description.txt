@@ -1,0 +1,2 @@
+Africa Business Network
+- A client side Google Map showing different business incubators, and microfinance organizations that exist in Africa. This network was built for the College of Wooster and is to be updated every once in a while when new data is available. Students can use this network to find organizations or places where they can potentially intern or volunteer during their study abroad programs in Africa or during summer time. 
